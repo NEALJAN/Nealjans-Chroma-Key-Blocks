@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/a/zHqetui" alt="Logo" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/g9BCnnP.png" alt="Logo" width="200"></p>
 <h1 align="center">Nealjan's Chroma Key Blocks  <br> </h1>
 
 <p>This is Nealjan's Chroma Key Blocks! </p>

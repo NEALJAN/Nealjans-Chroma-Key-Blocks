@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/ddejLvF.png" alt="Logo" width="200"></p>
-<h1 align="center">Nealjan's Chroma Key Blocks </h1>
+<h1 align="center">Nealjan's Chroma Key Blocks <br> </h1>
 
 <p>This is Nealjan's Chroma Key Blocks!</p>
 <p>Nealjan's Chroma Key Blocks adds simple one colored emissive blocks that can be used for chroma keying in video editing!</p>

@@ -1,0 +1,10 @@
+{
+    "block.nealjans-chroma-key-blocks.chroma_green": "Chroma Green",
+    "block.nealjans-chroma-key-blocks.chroma_blue": "Chroma Blue",
+    "block.nealjans-chroma-key-blocks.chroma_red": "Chroma Red",
+    "block.nealjans-chroma-key-blocks.chroma_yellow": "Chroma Yellow",
+    "block.nealjans-chroma-key-blocks.unshaded_white": "Unshaded White",
+    "block.nealjans-chroma-key-blocks.unshaded_black": "Unshaded Black",
+
+    "itemgroup.chroma_key_blocks": "Chroma Key Blocks"
+}

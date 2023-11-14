@@ -3,12 +3,14 @@
 	"id": "nealjans-chroma-key-blocks",
 	"version": "${version}",
 	"name": "Nealjan's Chroma Key Blocks",
-	"description": "Adds simple blocks that can be used by video editors for chroma keying",
+	"description": "Adds simple one colored blocks that can be used by video editors for chroma keying",
 	"authors": [
 		"NEALJAN"
 	],
 	"contact": {
-		"homepage": "youtube.com/@NealjanLIVE"
+		"homepage": "https://modrinth.com/mod/nealjans-chroma-key-blocks",
+		"source": "https://github.com/NEALJAN/Nealjans-Chroma-Key-Blocks",
+		"issues": "https://github.com/NEALJAN/Nealjans-Chroma-Key-Blocks/issues"
 	},
 	"license": "CC BY-SA 4.0",
 	"icon": "assets/nealjans-chroma-key-blocks/icon.png",
@@ -20,7 +22,7 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.14.24",
-		"minecraft": "~1.20.2 ",
+		"minecraft": "~1.20.1 ",
 		"java": ">=17",
 		"fabric-api": "*"
 	},

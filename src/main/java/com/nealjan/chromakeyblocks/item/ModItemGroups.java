@@ -20,7 +20,9 @@ public class ModItemGroups {
 
                 entries.add(ModBlocks.CHROMA_GREEN);
                 entries.add(ModBlocks.CHROMA_BLUE);
+                entries.add(ModBlocks.CHROMA_LIGHT_BLUE);
                 entries.add(ModBlocks.CHROMA_RED);
+                entries.add(ModBlocks.CHROMA_MAGENTA);
                 entries.add(ModBlocks.CHROMA_YELLOW);
                 entries.add(ModBlocks.UNSHADED_WHITE);
                 entries.add(ModBlocks.UNSHADED_BLACK);

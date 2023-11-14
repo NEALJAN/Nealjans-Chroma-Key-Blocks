@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nealjans-chroma-key-blocks:block/chroma_magenta"
+  }
+}

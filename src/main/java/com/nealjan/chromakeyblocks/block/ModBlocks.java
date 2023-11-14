@@ -19,7 +19,13 @@ public class ModBlocks {
     public static final Block CHROMA_BLUE = registerBlock("chroma_blue", 
         new Block(FabricBlockSettings.copyOf(Blocks.WHITE_CONCRETE).luminance(1).emissiveLighting(Blocks::always)));
 
+    public static final Block CHROMA_LIGHT_BLUE = registerBlock("chroma_light_blue", 
+        new Block(FabricBlockSettings.copyOf(Blocks.WHITE_CONCRETE).luminance(1).emissiveLighting(Blocks::always)));
+
     public static final Block CHROMA_RED = registerBlock("chroma_red", 
+        new Block(FabricBlockSettings.copyOf(Blocks.WHITE_CONCRETE).luminance(1).emissiveLighting(Blocks::always)));
+
+    public static final Block CHROMA_MAGENTA = registerBlock("chroma_magenta", 
         new Block(FabricBlockSettings.copyOf(Blocks.WHITE_CONCRETE).luminance(1).emissiveLighting(Blocks::always)));
 
     public static final Block CHROMA_YELLOW = registerBlock("chroma_yellow", 
